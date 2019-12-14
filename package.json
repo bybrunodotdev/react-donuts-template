@@ -1,0 +1,32 @@
+{
+  "name": "cra-template-delicious-donut",
+  "version": "0.1.6",
+  "private": false,
+  "keywords": [
+    "react",
+    "create-react-app",
+    "create-react-app-template",
+    "template",
+    "delicious-donut"
+  ],
+  "description": "The most delicious donut you have ever seen.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:heybrunoandrade/delicious-donut.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/heybrunoandrade/delicious-donut/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
