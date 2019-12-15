@@ -7,7 +7,8 @@
     "styled-components": "^4.4.1",
     "superdonut": "latest",
     "react-router": "latest",
-    "react-router-dom": "latest"
+    "react-router-dom": "latest",
+    "react-kawaii": "latest"
   },
   "scripts": {
     "start": "craco start",
