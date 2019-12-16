@@ -24,13 +24,13 @@ The template comes pre-configured with superdonuts, the CLI for quick setup and 
 
 ```bash
 // Configure Eslint
- yarn run superdonuts configure:eslint
+ yarn run superdonut configure:eslint
 
 // Create Component
- yarn run superdonuts generate:component MyComponent
+ yarn run superdonut generate:component MyComponent
 
 // Create Page
- yarn run superdonuts generate:page Main
+ yarn run superdonut generate:page Main
 
 ```
 
